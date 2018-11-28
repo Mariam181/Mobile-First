@@ -1,5 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
 }
 
 .color_menu {
@@ -58,19 +59,15 @@ body {
 
 .titulo p {
     margin: 0px;
+    margin-bottom: 28px;
     color: $blanco;
     font-size: 60px;
 }
 
 .titulo a {
-    
     color: #a5d2dc;
     font-size: 34px;
     text-decoration: none;
-}
-
-.link {
-    margin-top: 28px;
 }
 
 .gris_oscuro {
@@ -124,6 +121,7 @@ body {
 
 .imagenes {
     width: 100%;
+    display: block;
 }
 
 /************************************************/
