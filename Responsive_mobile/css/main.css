@@ -98,24 +98,8 @@ body {
   color: #ffffff;
   font-size: 118px; }
 
+/*************************************************/
 .imagenes {
   width: 100%; }
-
-.gris {
-  background-color: #ebebeb; }
-
-.texto_gris p {
-  margin: 0px;
-  margin-top: 56px;
-  padding-bottom: 234px; }
-
-.texto_gris {
-  width: 80%;
-  margin: 0 auto; }
-
-.texto_gris h3 {
-  color: #088ca5;
-  margin: 0px;
-  padding-top: 65px; }
 
 /*# sourceMappingURL=main.css.map */
